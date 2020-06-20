@@ -1,0 +1,5 @@
+​फ्रान्सको राजधानी पेरिसमा विस्फोट
+
+चैत १९ – फ्रान्सको राजधानी पेरिसमा ग्यास विस्फोट भएको छ । अपार्टमेन्टमा ग्यास विस्फोटपछि आगो लागेको थियो । विस्फोटमा परेर केहि घाइते भएका छन् ।
+सुरुमा विस्फोट र धुवाँको मुस्लो देखिएपछि आतंककारी आक्रमणको आशंकामा मानिसहरु त्रसित भएपनि पछि प्रहरीले ग्यास विस्फोट भएको स्पष्ट पारेको हो । 
+#Paris Tweets !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
